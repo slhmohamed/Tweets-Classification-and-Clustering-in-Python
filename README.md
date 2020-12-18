@@ -18,7 +18,7 @@
   ![c1](https://user-images.githubusercontent.com/41681230/102667276-48a48a80-4189-11eb-8a79-11e7ac39da99.PNG)
 ## 4.Prétraitement
 ### Nettoyage des tweets
-    Les tweets contiennent des objets inutiles tels que des hashtags, des mentions, des liens et des signes de ponctuation qui peuvent affecter les performances d'un algorithme     et doivent donc être supprimés. Tous les textes sont convertis en minuscules pour éviter que les algorithmes n'interprètent les mêmes mots avec des cas différents comme         différents.
+   Les tweets contiennent des objets inutiles tels que des hashtags, des mentions, des liens et des signes de ponctuation qui peuvent affecter les performances d'un algorithme     et doivent donc être supprimés. Tous les textes sont convertis en minuscules pour éviter que les algorithmes n'interprètent les mêmes mots avec des cas différents comme         différents.
 
   
   
